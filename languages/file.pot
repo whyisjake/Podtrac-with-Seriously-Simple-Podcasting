@@ -1,0 +1,33 @@
+# Copyright (C) 2015 podtrac-ss-podcasting
+# This file is distributed under the same license as the podtrac-ss-podcasting package.
+msgid ""
+msgstr ""
+"Project-Id-Version: podtrac-ss-podcasting\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Jake Spurlock <jake_spurlock@wired.com>\n"
+"Language-Team: Jake Spurlock <jake_spurlock@wired.com>\n"
+
+"Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
+
+#: podtrac.php:21
+msgid "Podtrac"
+msgstr ""
+
+#: podtrac.php:22
+msgid "If you are using Podtrac in conjunction with Seriously Simple Podcasting, add your feed settings here."
+msgstr ""
+
+#: podtrac.php:33
+msgid "Redirect podcast feed to Podtrac URL"
+msgstr ""
+
+#: podtrac.php:40
+msgid "Podtrac Feed URL"
+msgstr ""
+
+#: podtrac.php:44
+msgid "New feed URL"
+msgstr ""

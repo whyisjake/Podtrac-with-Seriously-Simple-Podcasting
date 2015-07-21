@@ -1,0 +1,10 @@
+{
+  "name": "Podtrac with Seriously Simple Podcasting",
+  "author": "Jake Spurlock",
+  "description": "Podtrac with Seriously Simple Podcasting",
+  "repository": "https://github.com/whyisjake/podtrac",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-wp-pot": "^1.0.1"
+  }
+}
