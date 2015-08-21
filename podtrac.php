@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Podtrac with Seriously Simple Podcasting
+Plugin Name: Jake's plugin for Podtrac with Seriously Simple Podcasting
 Version: 0.5
 Description: Add filters to add Podtrac settings to Seriously Simple Podcasting.
 Author: Jake Spurlock

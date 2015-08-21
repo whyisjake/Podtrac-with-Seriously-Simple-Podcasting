@@ -1,4 +1,4 @@
-=== Podtrac & Seriously Simple Podcasting ===
+=== Jake's plugin for Podtrac & Seriously Simple Podcasting ===
 Contributors: whyisjake
 Donate link: http://jakespurlock.com/donate/
 Tags: podcast
