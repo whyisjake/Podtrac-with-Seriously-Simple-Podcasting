@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Add Podtrac to Seriously Simple Podcasting
-Version: 0.5
+Version: 0.5.1
 Description: Add filters to add Podtrac settings to Seriously Simple Podcasting.
 Author: Jake Spurlock
 Author URI: http://jakespurlock.com
@@ -53,7 +53,7 @@ function podtrac_add_new_settings( $settings ) {
 	return $settings;
 }
 
-add_filter( 'ssp_episode_download_link', 'podtrac_download_url_filter' );
+add_filter( 'ssp_episode_download_link', 'podtrac_download_url_filter', 10, 3 );
 
 /**
  * If we have the option enabled for the measurement service, filter that onto the URL.

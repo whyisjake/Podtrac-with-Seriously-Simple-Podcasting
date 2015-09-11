@@ -1,4 +1,4 @@
-=== Jake's plugin for Podtrac & Seriously Simple Podcasting ===
+=== Podtrac & Seriously Simple Podcasting ===
 Contributors: whyisjake
 Donate link: http://jakespurlock.com/donate/
 Tags: podcast
@@ -33,6 +33,9 @@ This is coming soon, and I hope to be working with Seriously Simple Podcasting t
 1. Podtrac admin interface, integrated with Seriously Simple Podcasting.
 
 == Changelog ==
+
+= 0.5.1 =
+* Add three parameters to the filter to prevent notices. 
 
 = 0.5 =
 * Initial Release
