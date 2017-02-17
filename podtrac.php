@@ -68,7 +68,7 @@ function podtrac_download_url_filter( $link, $episode_id, $file ) {
 
 	if ( $redirect === 'on' ) {
 		$parsed = parse_url( $link );
-		$link = esc_url( 'http://www.podtrac.com/pts/redirect.mp3/' . $parsed['host'] . $parsed['path'] );
+		$link = esc_url( 'https://www.podtrac.com/pts/redirect.mp3/' . $parsed['host'] . $parsed['path'] );
 	}
 
 	return $link;
